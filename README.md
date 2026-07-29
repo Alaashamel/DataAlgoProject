@@ -1,5 +1,8 @@
 # Telco Customer Churn Analytics Dashboard
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Language](https://img.shields.io/badge/language-Python-informational.svg) ![Last Commit](https://img.shields.io/github/last-commit/Alaashamel/DataAlgoProject)
+
+
 An interactive Streamlit dashboard for analyzing customer churn in a telecommunications company.
 
 ## Features
